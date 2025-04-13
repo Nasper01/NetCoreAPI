@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  color: red;
+  text-align: center;
+}
+
+</style>
+</head>
+<body>
+
+<h1>Nam 96</h1>
+<p>Nam96</p>
+
+</body>
+</html>
+
+
