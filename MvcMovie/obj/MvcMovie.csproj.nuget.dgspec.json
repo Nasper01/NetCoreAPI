@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Demo_git_MVC\\MvcMovie\\MvcMovie.csproj": {}
+    "D:\\NetCoreAPI\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "D:\\Demo_git_MVC\\MvcMovie\\MvcMovie.csproj": {
+    "D:\\NetCoreAPI\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Demo_git_MVC\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "D:\\NetCoreAPI\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "D:\\Demo_git_MVC\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "D:\\NetCoreAPI\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Demo_git_MVC\\MvcMovie\\obj\\",
+        "outputPath": "D:\\NetCoreAPI\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
